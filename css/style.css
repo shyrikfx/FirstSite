@@ -1,0 +1,56 @@
+.fon {
+	background: #eee;
+}
+.block-bg {
+	margin: auto;
+	width: 410px;
+	height: auto;
+	background: #fff;
+}
+.block {
+	margin: auto;
+	width: 327px;
+	/*background: #4895dd;*/
+	border-bottom: 1px solid #7a7a7a;
+	padding: 6px;
+	}
+.block-last {
+	margin: auto;
+	width: 327px;
+	/*background: #4895dd;*/
+	/*border-bottom: 1px solid #7a7a7a;*/
+	padding: 6px;
+	}
+.foto {
+	width: 102px;
+	height: 107px;
+}
+.fig {
+	text-align: center;
+}
+.none {
+	list-style-type: none;
+	padding: 0;
+}
+.listhorizontal {
+	size: 10px 10px;
+	list-style-type: none;
+	padding: 0;
+	display: inline-block;
+}
+h1 {
+	font-size: 12pt;
+	text-align: center;
+}
+ul.horizontal-list {
+ 	margin: 0; /* Обнуляем значение отступов */
+  	padding: 4px; /* Значение полей */
+}
+ul.horizontal-list li {
+
+ 	display: inline; /* Отображать как строчный элемент */
+ 	margin-right: 5px; /* Отступ слева */
+ 	/*border: 1px solid #000; /* Рамка вокруг текста */
+ 	padding: 15px; /* Поля вокруг текста */
+
+}
